@@ -6,9 +6,17 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "immutable": "^4.0.0-rc.12",
+    "npm-react": "^1.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "slate": "^0.58.4",
+    "slate-plain-serializer": "^0.7.13",
+    "slate-react": "^0.58.4",
+    "tsutils": "^3.17.1",
+    "typescript": "^4.0.3",
+    "yarn": "^1.22.5"
   },
   "scripts": {
     "start": "react-scripts start",
